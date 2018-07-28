@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://hjpotter1.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Blog on My New Hugo Site</title>
+    <link>http://hjpotter1.github.io/tags/blog/</link>
+    <description>Recent content in Blog on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Jul 2017 15:37:11 +0800</lastBuildDate>
     
-	<atom:link href="http://hjpotter1.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://hjpotter1.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>http://hjpotter1.github.io/about/</guid>
       <description> 这里使用markdown来编写文章 </description>
-    </item>
-    
-    <item>
-      <title>first</title>
-      <link>http://hjpotter1.github.io/post/first/</link>
-      <pubDate>Thu, 08 Jan 2015 08:36:54 -0700</pubDate>
-      
-      <guid>http://hjpotter1.github.io/post/first/</guid>
-      <description> Hello Hugo  aaa bbb ccc  </description>
     </item>
     
   </channel>
