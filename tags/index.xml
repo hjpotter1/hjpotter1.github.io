@@ -1,95 +1,86 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hugo Blog</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Hugo Blog</description>
+    <title>Tags on HJ Blog</title>
+    <link>https://hjpotter1.github.io/tags/</link>
+    <description>Recent content in Tags on HJ Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>zh-CN</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
-    <lastBuildDate>Mon, 03 Jul 2017 15:37:11 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jul 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hjpotter1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Blog</title>
-      <link>http://localhost:1313/tags/blog/</link>
-      <pubDate>Mon, 03 Jul 2017 15:37:11 +0800</pubDate>
-      
-      <guid>http://localhost:1313/tags/blog/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Development</title>
-      <link>http://localhost:1313/tags/development/</link>
+      <link>https://hjpotter1.github.io/tags/development/</link>
       <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/development/</guid>
+      <guid>https://hjpotter1.github.io/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>http://localhost:1313/tags/go/</link>
+      <link>https://hjpotter1.github.io/tags/go/</link>
       <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/go/</guid>
+      <guid>https://hjpotter1.github.io/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>http://localhost:1313/tags/golang/</link>
+      <link>https://hjpotter1.github.io/tags/golang/</link>
       <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/golang/</guid>
+      <guid>https://hjpotter1.github.io/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>http://localhost:1313/tags/hugo/</link>
+      <link>https://hjpotter1.github.io/tags/hugo/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/hugo/</guid>
+      <guid>https://hjpotter1.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/tags/markdown/</link>
+      <link>https://hjpotter1.github.io/tags/markdown/</link>
       <pubDate>Wed, 17 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/markdown/</guid>
+      <guid>https://hjpotter1.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Templates</title>
-      <link>http://localhost:1313/tags/templates/</link>
+      <link>https://hjpotter1.github.io/tags/templates/</link>
       <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/templates/</guid>
+      <guid>https://hjpotter1.github.io/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theme</title>
-      <link>http://localhost:1313/tags/theme/</link>
+      <link>https://hjpotter1.github.io/tags/theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/theme/</guid>
+      <guid>https://hjpotter1.github.io/tags/theme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Themes</title>
-      <link>http://localhost:1313/tags/themes/</link>
+      <link>https://hjpotter1.github.io/tags/themes/</link>
       <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/themes/</guid>
+      <guid>https://hjpotter1.github.io/tags/themes/</guid>
       <description></description>
     </item>
     

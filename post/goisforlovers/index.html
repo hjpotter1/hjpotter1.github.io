@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
 
   <meta charset="utf-8" />
@@ -15,7 +15,7 @@
 
 
   
-  <meta name="author" content="Ritchie Zhu" />
+  <meta name="author" content="hj" />
   <meta name="description" content="Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates." />
 
@@ -26,7 +26,7 @@ This document is a brief primer on using go templates." />
     <meta name="twitter:title" content="(Hu)go Template Primer" />
     <meta name="twitter:description" content="Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates." />
-    <meta name="twitter:image" content="http://localhost:1313/img/avatar.jpg" />
+    <meta name="twitter:image" content="https://hjpotter1.github.io/img/avatar.jpg" />
   
 
   
@@ -34,8 +34,8 @@ This document is a brief primer on using go templates." />
   <meta property="og:title" content="(Hu)go Template Primer" />
   <meta property="og:description" content="Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates." />
-  <meta property="og:url" content="http://localhost:1313/post/goisforlovers/" />
-  <meta property="og:image" content="http://localhost:1313/img/avatar.jpg" />
+  <meta property="og:url" content="https://hjpotter1.github.io/post/goisforlovers/" />
+  <meta property="og:image" content="https://hjpotter1.github.io/img/avatar.jpg" />
 
 
 
@@ -43,8 +43,8 @@ This document is a brief primer on using go templates." />
 <meta name="generator" content="Hugo 0.45.1" />
 
 
-<link rel="canonical" href="http://localhost:1313/post/goisforlovers/" />
-<link rel="alternative" href="http://localhost:1313/index.xml" title="Hugo Blog" type="application/atom+xml" />
+<link rel="canonical" href="https://hjpotter1.github.io/post/goisforlovers/" />
+<link rel="alternative" href="https://hjpotter1.github.io/index.xml" title="HJ Blog" type="application/atom+xml" />
 
 
 <meta name="renderer" content="webkit" />
@@ -64,23 +64,23 @@ This document is a brief primer on using go templates." />
 
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-<meta name="apple-mobile-web-app-title" content="Hugo Blog" />
-<meta name="msapplication-tooltip" content="Hugo Blog" />
+<meta name="apple-mobile-web-app-title" content="HJ Blog" />
+<meta name="msapplication-tooltip" content="HJ Blog" />
 <meta name='msapplication-navbutton-color' content="#5fbf5e" />
 <meta name="msapplication-TileColor" content="#5fbf5e" />
 <meta name="msapplication-TileImage" content="/img/tile-image-windows.png" />
-<link rel="icon" href="http://localhost:1313/img/favicon.ico" />
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/img/favicon-16x16.png" />
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/img/favicon-32x32.png" />
-<link rel="icon" sizes="192x192" href="http://localhost:1313/img/touch-icon-android.png" />
-<link rel="apple-touch-icon" href="http://localhost:1313/img/touch-icon-apple.png" />
-<link rel="mask-icon" href="http://localhost:1313/img/safari-pinned-tab.svg" color="#5fbf5e" />
+<link rel="icon" href="https://hjpotter1.github.io/img/favicon.ico" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://hjpotter1.github.io/img/favicon-16x16.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://hjpotter1.github.io/img/favicon-32x32.png" />
+<link rel="icon" sizes="192x192" href="https://hjpotter1.github.io/img/touch-icon-android.png" />
+<link rel="apple-touch-icon" href="https://hjpotter1.github.io/img/touch-icon-apple.png" />
+<link rel="mask-icon" href="https://hjpotter1.github.io/img/safari-pinned-tab.svg" color="#5fbf5e" />
 
 
 
 <link rel="stylesheet" href="//cdn.bootcss.com/video.js/6.2.8/alt/video-js-cdn.min.css" />
 
-<link rel="stylesheet" href="http://localhost:1313/css/bundle.ff02473a9a.css" />
+<link rel="stylesheet" href="https://hjpotter1.github.io/css/bundle.ff02473a9a.css" />
 
 
   
@@ -115,9 +115,9 @@ This document is a brief primer on using go templates." />
     
     
   <header class="site-header">
-  <img class="avatar" src="http://localhost:1313/img/avatar.jpg" alt="Avatar">
+  <img class="avatar" src="https://hjpotter1.github.io/img/avatar.jpg" alt="Avatar">
   
-  <h2 class="title">Hugo Blog</h2>
+  <h2 class="title">HJ Blog</h2>
   
   <p class="subtitle">~ Keep It Simple &amp; Stupid ~</p>
   <button class="menu-toggle" type="button">
@@ -136,7 +136,7 @@ This document is a brief primer on using go templates." />
             
               is-active
             ">
-            <a href="http://localhost:1313/">Home</a>
+            <a href="https://hjpotter1.github.io/">Home</a>
           </li>
       
         <li class="menu-item
@@ -150,21 +150,21 @@ This document is a brief primer on using go templates." />
             
             
             ">
-            <a href="http://localhost:1313/tags/">Tags</a>
+            <a href="https://hjpotter1.github.io/tags/">Tags</a>
           </li>
       
         <li class="menu-item
             
             
             ">
-            <a href="http://localhost:1313/links/">Links</a>
+            <a href="https://hjpotter1.github.io/links/">Links</a>
           </li>
       
         <li class="menu-item
             
             
             ">
-            <a href="http://localhost:1313/about/">About</a>
+            <a href="https://hjpotter1.github.io/about/">About</a>
           </li>
       
     </ul>
@@ -216,7 +216,7 @@ This document is a brief primer on using go templates." />
       </li>
 
       <li class="social-item">
-        <a href="http://localhost:1313/img/qrcode.jpg" title="Wechat"><span class="icon icon-wechat"></span></a>
+        <a href="https://hjpotter1.github.io/img/qrcode.jpg" title="Wechat"><span class="icon icon-wechat"></span></a>
       </li>
 
       <li class="social-item">
@@ -230,7 +230,7 @@ This document is a brief primer on using go templates." />
       
 
       <li class="social-item">
-        <a href="http://localhost:1313/index.xml"><span class="icon icon-rss" title="RSS"></span></a>
+        <a href="https://hjpotter1.github.io/index.xml"><span class="icon icon-rss" title="RSS"></span></a>
       </li>
 
     </ul>
@@ -240,7 +240,7 @@ This document is a brief primer on using go templates." />
   <section class="main post-detail">
     <header class="post-header">
       <h1 class="post-title">(Hu)go Template Primer</h1>
-      <p class="post-meta">@Ritchie Zhu · Jul 28, 2014 · 7 min read</p>
+      <p class="post-meta">@hj · Jul 28, 2014 · 7 min read</p>
     </header>
     <article class="post-content">
 
@@ -300,7 +300,7 @@ functions.</p>
 <p>Each go template has a struct (object) made available to it. In hugo each
 template is passed either a page or a node struct depending on which type of
 page you are rendering. More details are available on the
-<a href="http://localhost:1313/layout/variables">variables</a> page.</p>
+<a href="https://hjpotter1.github.io/layout/variables">variables</a> page.</p>
 
 <p>A variable is accessed by referencing the variable name.</p>
 
@@ -317,7 +317,7 @@ page you are rendering. More details are available on the
 
 <p>Go template ship with a few functions which provide basic functionality. The go
 template system also provides a mechanism for applications to extend the
-available functions with their own. <a href="http://localhost:1313/layout/functions">Hugo template
+available functions with their own. <a href="https://hjpotter1.github.io/layout/functions">Hugo template
 functions</a> provide some additional functionality we believe
 are useful for building websites. Functions are called by using their name
 followed by the required parameters separated by spaces. Template
@@ -505,7 +505,7 @@ you want to inside of your templates.</p>
 <h2 id="using-content-page-parameters">Using Content (page) Parameters</h2>
 
 <p>In each piece of content you can provide variables to be used by the
-templates. This happens in the <a href="http://localhost:1313/content/front-matter">front matter</a>.</p>
+templates. This happens in the <a href="https://hjpotter1.github.io/content/front-matter">front matter</a>.</p>
 
 <p>An example of this is used in this documentation site. Most of the pages
 benefit from having the table of contents provided. Sometimes the TOC just
@@ -581,20 +581,20 @@ so, such as in this example:</p>
       
       <ul class="post-tags">
         
-          <li><a href="http://localhost:1313/tags/go"><span class="tag">Go</span></a></li>
+          <li><a href="https://hjpotter1.github.io/tags/go"><span class="tag">Go</span></a></li>
         
-          <li><a href="http://localhost:1313/tags/golang"><span class="tag">Golang</span></a></li>
+          <li><a href="https://hjpotter1.github.io/tags/golang"><span class="tag">Golang</span></a></li>
         
-          <li><a href="http://localhost:1313/tags/templates"><span class="tag">Templates</span></a></li>
+          <li><a href="https://hjpotter1.github.io/tags/templates"><span class="tag">Templates</span></a></li>
         
-          <li><a href="http://localhost:1313/tags/themes"><span class="tag">Themes</span></a></li>
+          <li><a href="https://hjpotter1.github.io/tags/themes"><span class="tag">Themes</span></a></li>
         
-          <li><a href="http://localhost:1313/tags/development"><span class="tag">Development</span></a></li>
+          <li><a href="https://hjpotter1.github.io/tags/development"><span class="tag">Development</span></a></li>
         
       </ul>
       
       <p class="post-copyright">
-        © This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.This post was published <strong>1462</strong> days ago, content in the post may be inaccurate, even wrong now, please take risk yourself.
+        © This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.This post was published <strong>1463</strong> days ago, content in the post may be inaccurate, even wrong now, please take risk yourself.
       </p>
     </footer>
     
@@ -622,7 +622,7 @@ so, such as in this example:</p>
     
   </section>
   <footer class="site-footer">
-  <p>© 2017-2018 Hugo Blog</p>
+  <p>© 2017-2018 HJ Blog</p>
   <p>Powered by <a href="https://gohugo.io/" target="_blank">Hugo</a> with theme <a href="https://github.com/laozhu/hugo-nuo" target="_blank">Nuo</a>.</p>
   
 </footer>
@@ -653,7 +653,7 @@ so, such as in this example:</p>
   });
 </script>
 
-<script src="http://localhost:1313/js/bundle.d1288006cf.js"></script>
+<script src="https://hjpotter1.github.io/js/bundle.d1288006cf.js"></script>
 
 
 <script>

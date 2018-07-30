@@ -3,118 +3,107 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/links/</loc>
+    <loc>https://hjpotter1.github.io/links/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://hjpotter1.github.io/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/adsasd/</loc>
-    <lastmod>2017-07-03T15:37:11+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/creating-a-new-theme/</loc>
+    <loc>https://hjpotter1.github.io/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/goisforlovers/</loc>
+    <loc>https://hjpotter1.github.io/post/goisforlovers/</loc>
     <lastmod>2014-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/hugoisforlovers/</loc>
+    <loc>https://hjpotter1.github.io/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/migrate-from-jekyll/</loc>
+    <loc>https://hjpotter1.github.io/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/hugo-nuo-post-preview/</loc>
+    <loc>https://hjpotter1.github.io/post/hugo-nuo-post-preview/</loc>
     <lastmod>2013-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/blog/</loc>
-    <lastmod>2017-07-03T15:37:11+08:00</lastmod>
+    <loc>https://hjpotter1.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/development/</loc>
+    <loc>https://hjpotter1.github.io/tags/development/</loc>
     <lastmod>2014-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/go/</loc>
+    <loc>https://hjpotter1.github.io/tags/go/</loc>
     <lastmod>2014-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/golang/</loc>
+    <loc>https://hjpotter1.github.io/tags/golang/</loc>
     <lastmod>2014-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://hjpotter1.github.io/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
+    <loc>https://hjpotter1.github.io/tags/hugo/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hjpotter1.github.io/tags/markdown/</loc>
     <lastmod>2013-07-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://hjpotter1.github.io/post/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2017-07-03T15:37:11+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/templates/</loc>
+    <loc>https://hjpotter1.github.io/tags/</loc>
     <lastmod>2014-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/theme/</loc>
+    <loc>https://hjpotter1.github.io/tags/templates/</loc>
+    <lastmod>2014-07-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hjpotter1.github.io/tags/theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/themes/</loc>
+    <loc>https://hjpotter1.github.io/tags/themes/</loc>
     <lastmod>2014-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
