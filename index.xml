@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>Links</title>
+      <title>链接</title>
       <link>https://hjpotter1.github.io/links/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
@@ -22,34 +22,24 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title>关于</title>
       <link>https://hjpotter1.github.io/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://hjpotter1.github.io/about/</guid>
-      <description>Hugo is a static site engine written in Go.
+      <description>这里是HJ中文站
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
     </item>
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>https://hjpotter1.github.io/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>《女神异闻录5》版东京自由行指南2.0</title>
+      <link>https://hjpotter1.github.io/post/first/</link>
+      <pubDate>Tue, 31 Jul 2018 01:42:34 +0900</pubDate>
       
-      <guid>https://hjpotter1.github.io/post/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://hjpotter1.github.io/post/goisforlovers/</link>
-      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://hjpotter1.github.io/post/goisforlovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
+      <guid>https://hjpotter1.github.io/post/first/</guid>
+      <description>&lt;p&gt;&amp;ensp;&amp;ensp;随着《你的名字》的热映，“圣地巡礼”这个词也成为了日本年度热门词汇之一。笔者在2017年樱花季受游戏时光网站所约，利用周末时间对游戏中的东京景点进行了一番实拍巡游，写就了这篇游记，并于2018年对文章结构进行了优化，附加了详细游玩线路。即使您没有玩过游戏，也可以将其作为普通导游指南使用。
+&lt;/p&gt;</description>
     </item>
     
     <item>
