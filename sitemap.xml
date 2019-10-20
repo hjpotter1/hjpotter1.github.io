@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://hjpotter1.github.io/post/yejing/</loc>
+    <lastmod>2019-07-31T01:42:34+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hjpotter1.github.io/post/liuxue/</loc>
     <lastmod>2018-09-09T21:46:27+09:00</lastmod>
   </url>
@@ -40,11 +45,6 @@
   <url>
     <loc>https://hjpotter1.github.io/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hjpotter1.github.io/post/hugo-nuo-post-preview/</loc>
-    <lastmod>2013-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -90,19 +90,19 @@
   
   <url>
     <loc>https://hjpotter1.github.io/post/</loc>
-    <lastmod>2018-09-09T21:46:27+09:00</lastmod>
+    <lastmod>2019-07-31T01:42:34+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hjpotter1.github.io/tags/taga/</loc>
-    <lastmod>2018-08-01T23:15:30+09:00</lastmod>
+    <lastmod>2019-07-31T01:42:34+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hjpotter1.github.io/tags/tagb/</loc>
-    <lastmod>2018-08-01T23:15:30+09:00</lastmod>
+    <lastmod>2019-07-31T01:42:34+09:00</lastmod>
     <priority>0</priority>
   </url>
   
