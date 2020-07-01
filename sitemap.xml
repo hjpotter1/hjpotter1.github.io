@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://hjpotter1.github.io/post/1z0-809/</loc>
+    <lastmod>2020-07-01T01:42:34+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hjpotter1.github.io/post/zhaopin/</loc>
     <lastmod>2020-01-04T00:00:00+00:00</lastmod>
   </url>
@@ -33,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://hjpotter1.github.io/post/first/</loc>
+    <loc>https://hjpotter1.github.io/post/youji/</loc>
     <lastmod>2018-07-31T01:42:34+09:00</lastmod>
   </url>
   
@@ -50,6 +55,12 @@
   <url>
     <loc>https://hjpotter1.github.io/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hjpotter1.github.io/tags/1z0-809/</loc>
+    <lastmod>2020-07-01T01:42:34+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -88,6 +99,12 @@
   </url>
   
   <url>
+    <loc>https://hjpotter1.github.io/tags/java/</loc>
+    <lastmod>2020-07-01T01:42:34+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://hjpotter1.github.io/tags/markdown/</loc>
     <lastmod>2018-09-09T21:46:27+09:00</lastmod>
     <priority>0</priority>
@@ -95,7 +112,7 @@
   
   <url>
     <loc>https://hjpotter1.github.io/post/</loc>
-    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-01T01:42:34+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -113,7 +130,7 @@
   
   <url>
     <loc>https://hjpotter1.github.io/tags/</loc>
-    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-01T01:42:34+09:00</lastmod>
     <priority>0</priority>
   </url>
   

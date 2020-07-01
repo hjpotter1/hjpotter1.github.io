@@ -33,16 +33,31 @@ It makes use of a variety of open source projects including:
     </item>
     
     <item>
-      <title>Getting Started with Hugo</title>
+      <title>Java Gold资格认证:1Z0-809题解</title>
+      <link>https://hjpotter1.github.io/post/1z0-809/</link>
+      <pubDate>Wed, 01 Jul 2020 01:42:34 +0900</pubDate>
+      
+      <guid>https://hjpotter1.github.io/post/1z0-809/</guid>
+      <description>&lt;p&gt;近日考完1Z0-809-JPN Java SE 8 Programmer II，即Java Gold资格认证。分享一下参考题目以及部分题目的解法分析。希望能帮助到正在准备考试的朋友们。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>羽石株式会社招聘赴日程序员</title>
       <link>https://hjpotter1.github.io/post/zhaopin/</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://hjpotter1.github.io/post/zhaopin/</guid>
-      <description>羽石株式会社招聘赴日程序员 我们希望您是：  拥有良好逻辑思维、沟通能力的技术者 计算机相关本科毕业或者专科毕业工作2年以上 日语能力N2以上(技术能力强可以适当放宽) 有梦想，并且努力拼搏，并不满意目前的薪资     技术要求  后端：Java, Ruby, Python, PHP, .NET(ASP・VB・C#), C/C++ 前端：JavaScript, TypeScript, Angular, React, Vue.js 云服务：AWS, GCP 容器化：Kubernetes, Docker 数据库：Oracle, SQL Server, MySQL 效率化：GitHub, JIRA, Jenkins, Slack 移动端：iOS, Android  熟练掌握以上任意一种或几种。
-因为正处于第二创业期，现在公司大量职位空缺，包括但不限于 PM、PL、SE、PG 等。如果您对国内的收入不满，我们亟需志向高远的您加盟。
-月收入 25万～80万日元（16000～50000人民币） ＊职位众多，收入完全取决于你的能力
-工作地点 日本东京
-职业发展  每年至少一次的升薪评定 定期学习会+专门研修室，研修设备齐全，有经验丰富的高级技术者亲自指导 接近30种免费资格考试 工程师书籍购入制度 工作形式选择制度 各类表彰制度     其他福利  完全周休（周六日／节假日） 带薪休假／周年假／婚假／丧假／暑假／年末年初假， 特别假／产假／育儿假（配合日本16个国定假日，加上周末和带薪休假，每年都会有2～3个十连休的机会） 各类社会保险 交通费（上限 5 万日元） 超过规定工作时间的加班费 各部定期组织的社员活动及旅行  联系方式  主页： https://www.</description>
+      <description>&lt;h2 id=&#34;我们希望您是&#34;&gt;我们希望您是：&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;拥有良好逻辑思维、沟通能力的技术者&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;计算机相关本科毕业或者专科毕业工作2年以上&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;日语能力N2以上(技术能力强可以适当放宽)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;有梦想，并且努力拼搏，并不满意目前的薪资&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -87,10 +102,10 @@ It makes use of a variety of open source projects including:
     
     <item>
       <title>《女神异闻录5》版东京自由行指南2.0</title>
-      <link>https://hjpotter1.github.io/post/first/</link>
+      <link>https://hjpotter1.github.io/post/youji/</link>
       <pubDate>Tue, 31 Jul 2018 01:42:34 +0900</pubDate>
       
-      <guid>https://hjpotter1.github.io/post/first/</guid>
+      <guid>https://hjpotter1.github.io/post/youji/</guid>
       <description>&lt;p&gt;&amp;ensp;&amp;ensp;随着《你的名字》的热映，“圣地巡礼”这个词也成为了日本年度热门词汇之一。笔者在2017年樱花季受游戏时光网站所约，利用周末时间对游戏中的东京景点进行了一番实拍巡游，写就了这篇游记，并于2018年对文章结构进行了优化，附加了详细游玩线路。即使您没有玩过游戏，也可以将其作为普通导游指南使用。&lt;/p&gt;</description>
     </item>
     
