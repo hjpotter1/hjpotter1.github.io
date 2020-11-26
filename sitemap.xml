@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://hjpotter1.github.io/post/aws/</loc>
+    <lastmod>2020-11-01T01:42:34+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hjpotter1.github.io/post/1z0-809/</loc>
     <lastmod>2020-07-01T01:42:34+09:00</lastmod>
   </url>
@@ -60,6 +65,12 @@
   <url>
     <loc>https://hjpotter1.github.io/tags/1z0-809/</loc>
     <lastmod>2020-07-01T01:42:34+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hjpotter1.github.io/tags/aws/</loc>
+    <lastmod>2020-11-01T01:42:34+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -112,7 +123,13 @@
   
   <url>
     <loc>https://hjpotter1.github.io/post/</loc>
-    <lastmod>2020-07-01T01:42:34+09:00</lastmod>
+    <lastmod>2020-11-01T01:42:34+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hjpotter1.github.io/tags/saa-c02/</loc>
+    <lastmod>2020-11-01T01:42:34+09:00</lastmod>
     <priority>0</priority>
   </url>
   
