@@ -33,6 +33,23 @@ It makes use of a variety of open source projects including:
     </item>
     
     <item>
+      <title>应用情报</title>
+      <link>https://hjpotter1.github.io/post/ap2024/</link>
+      <pubDate>Mon, 01 Jan 2024 01:42:34 +0900</pubDate>
+      
+      <guid>https://hjpotter1.github.io/post/ap2024/</guid>
+      <description>&lt;p&gt;&amp;ensp;&amp;ensp;&lt;/p&gt;
+
+&lt;p&gt;应用情报技术者并不是一个很简单的考试。需要花上一整天时间，上下午连考两场。考试的通过率一直保持在20%出头，论坛上甚至不乏考了七八次还不过的朋友。&lt;/p&gt;
+
+&lt;p&gt;但这也不是一个很难的考试。由于可以完全避开编程题，很多非IT岗位的日本人只选经营管理一类的题，考出高分也不罕见。&lt;/p&gt;
+
+&lt;p&gt;如果你是完全零基础的上班族的话，至少需要三个月业余时间来学习，也就是说要参加4月的考试，1月开始就必须每天搭上两个小时来做题。做不到这点的话，就只能碰碰运气了。&lt;/p&gt;
+
+&lt;p&gt;考试分为午前和午后两部分，每部分两个半个小时。我们先从午前的策略开始谈。。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>AWS SAA-C02:知识体系&#43;401题解析</title>
       <link>https://hjpotter1.github.io/post/aws/</link>
       <pubDate>Sun, 01 Nov 2020 01:42:34 +0900</pubDate>
@@ -150,6 +167,18 @@ Follow the following steps:
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hjpotter1.github.io/post/javascript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hjpotter1.github.io/post/javascript/</guid>
+      <description>数组方法 Map and Set（映射和集合） 创建一个函数 unique(arr)，该函数返回一个由 arr 中所有唯一元素所组成的数组。
+function unique(arr) { return Array.from(new Set(arr)) } let values = [&amp;#34;Hare&amp;#34;, &amp;#34;Krishna&amp;#34;, &amp;#34;Hare&amp;#34;, &amp;#34;Krishna&amp;#34;, &amp;#34;Krishna&amp;#34;, &amp;#34;Krishna&amp;#34;, &amp;#34;Hare&amp;#34;, &amp;#34;Hare&amp;#34;, &amp;#34;:-O&amp;#34; ]; alert( unique(values) ); // Hare, Krishna, :-O  P.S. 这里用到了 string 类型，但其实可以是任何类型的值。
+函数 匿名函数 函数是对象所以可以通过赋值来指向到函数对象的指针，当然指针也可以传递给其他变量，注意后面要以;结束。下面使用函数表达式将 匿名函数 赋值给变量
+let hd = function(num) { return ++num; }; console.log(hd instanceof Object); //true let cms = hd; console.</description>
     </item>
     
   </channel>
