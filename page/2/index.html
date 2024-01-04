@@ -121,12 +121,6 @@ Follow the following steps:
         <a href="/hugoisforlovers/">Read More</a><div class="post-tags">
                 <i class="fas fa-tags fa-fw" aria-hidden="true"></i>&nbsp;<a href="/tags/go/">go</a>,&nbsp;<a href="/tags/golang/">golang</a>,&nbsp;<a href="/tags/hugo/">hugo</a>,&nbsp;<a href="/tags/development/">development</a></div></div>
 </article><article class="single summary" itemscope itemtype="http://schema.org/Article"><h1 class="single-title" itemprop="name headline">
-        <a href="/migrate-from-jekyll/">Migrate to Hugo from Jekyll</a>
-    </h1><div class="post-meta"><span class="post-author"><a href="/" title="Author" rel="author" class="author"><i class="fas fa-user-circle fa-fw" aria-hidden="true"></i>hjpotter</a></span>&nbsp;<span class="post-publish">published on <time datetime="2014-03-10">2014-03-10</time></span></div><div class="content">Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &lt;root&gt;/ ▾ images/ logo.png  should become
-▾ &lt;root&gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</div><div class="post-footer">
-        <a href="/migrate-from-jekyll/">Read More</a></div>
-</article><article class="single summary" itemscope itemtype="http://schema.org/Article"><h1 class="single-title" itemprop="name headline">
         <a href="/javascript/"></a>
     </h1><div class="post-meta"><span class="post-author"><a href="/" title="Author" rel="author" class="author"><i class="fas fa-user-circle fa-fw" aria-hidden="true"></i>hjpotter</a></span>&nbsp;<span class="post-publish">published on <time datetime="0001-01-01">0001-01-01</time></span></div><div class="content">数组方法 Map and Set（映射和集合） 创建一个函数 unique(arr)，该函数返回一个由 arr 中所有唯一元素所组成的数组。
 1 2 3 4 5 6 7 8 9  function unique(arr) { return Array.from(new Set(arr)) } let values = [&#34;Hare&#34;, &#34;Krishna&#34;, &#34;Hare&#34;, &#34;Krishna&#34;, &#34;Krishna&#34;, &#34;Krishna&#34;, &#34;Hare&#34;, &#34;Hare&#34;, &#34;:-O&#34; ]; alert( unique(values) ); // Hare, Krishna, :-O   P.S. 这里用到了 string 类型，但其实可以是任何类型的值。
