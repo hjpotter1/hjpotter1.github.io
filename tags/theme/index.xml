@@ -1,45 +1,57 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Theme on HJ Blog</title>
-    <link>https://hjpotter1.github.io/tags/theme/</link>
-    <description>Recent content in Theme on HJ Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
-    <lastBuildDate>Sun, 09 Sep 2018 21:46:27 +0900</lastBuildDate>
-    
-	<atom:link href="https://hjpotter1.github.io/tags/theme/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>日本省钱留学攻略2018：如何花最少的钱过上有性价比的留学生活</title>
-      <link>https://hjpotter1.github.io/post/liuxue/</link>
-      <pubDate>Sun, 09 Sep 2018 21:46:27 +0900</pubDate>
-      
-      <guid>https://hjpotter1.github.io/post/liuxue/</guid>
-      <description>&lt;p&gt;&amp;#160; &amp;#160; &amp;#160; &amp;#160;我们假设你是一个刚刚拿到日本在留资格的学生。你有可能是以求学为目的，去东京的语言学校准备考大学，大学院；也或许是以锻炼日语为目的，想交几个日本朋友，充实地度过短暂的交换留学时光；也没准只是想找个机会离开枯燥的生活，一边打工一边游玩，看看新宿是不是传说中那样的不夜城，奈良的小鹿到底有多粘人；亦或是借着短期留学的机会在日本找一份工作，成为传说中的“一般会社员”，甚至是打黑工挣一笔钱……面对包括学费和生活费在内的大笔开销不知所措，也不清楚该如何规划自己今后的生活。&lt;br /&gt;
-&amp;#160; &amp;#160; &amp;#160; &amp;#160;那么，怎么样才能花最少的钱在日本生活下去呢？&lt;/p&gt;
-
-&lt;div align=&#34;center&#34;&gt;
-&lt;img src=&#34;https://i.loli.net/2018/09/10/5b968677a3323.jpg&#34; width=&#34;80% alt=&#34;IMG_1981(20180521-020736).jpg&#34; title=&#34;IMG_1981(20180521-020736).jpg&#34; /&gt;      
-&lt;figcaption&gt;理想的东京&lt;/figcaption&gt;
-&lt;/div&gt;
-
-&lt;div align=&#34;center&#34;&gt;
-&lt;img src=&#34;https://i.loli.net/2018/09/10/5b9544ca69a55.jpg&#34; width=&#34;80% alt=&#34;&#34;&gt;&lt;/img&gt;
-&lt;figcaption&gt;现实的东京&lt;/figcaption&gt;
-&lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>梦幻模拟战</title>
-      <link>https://hjpotter1.github.io/post/menghuan/</link>
-      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://hjpotter1.github.io/post/menghuan/</guid>
-      <description>&lt;p&gt;7月26日发售的新一期周刊《Fami通》杂志上，公布了经典战棋游戏《梦幻模拟战》手游的新消息。《Fami通》介绍了游戏的基本情况，包括玩法、系统、版权方extreme的授权等等，还刊登了对《梦幻模拟战》手游开发公司紫龙游戏的专访。&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Theme - Tag - HJ Blog</title>
+        <link>https://hjpotter1.github.io/tags/theme/</link>
+        <description>Theme - Tag - HJ Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 09 Sep 2018 21:46:27 &#43;0900</lastBuildDate><atom:link href="https://hjpotter1.github.io/tags/theme/" rel="self" type="application/rss+xml" /><item>
+    <title>日本省钱留学攻略2018：如何花最少的钱过上有性价比的留学生活</title>
+    <link>https://hjpotter1.github.io/post/liuxue/</link>
+    <pubDate>Sun, 09 Sep 2018 21:46:27 &#43;0900</pubDate>
+    <author>Author Name</author>
+    <guid>https://hjpotter1.github.io/post/liuxue/</guid>
+    <description><![CDATA[<p>       我们假设你是一个刚刚拿到日本在留资格的学生。你有可能是以求学为目的，去东京的语言学校准备考大学，大学院；也或许是以锻炼日语为目的，想交几个日本朋友，充实地度过短暂的交换留学时光；也没准只是想找个机会离开枯燥的生活，一边打工一边游玩，看看新宿是不是传说中那样的不夜城，奈良的小鹿到底有多粘人；亦或是借着短期留学的机会在日本找一份工作，成为传说中的“一般会社员”，甚至是打黑工挣一笔钱……面对包括学费和生活费在内的大笔开销不知所措，也不清楚该如何规划自己今后的生活。<br>
+       那么，怎么样才能花最少的钱在日本生活下去呢？</p>
+<div align="center">
+		
+<figcaption>理想的东京</figcaption>
+</div>
+<div align="center">
+</img>
+<figcaption>现实的东京</figcaption>
+</div>]]></description>
+</item>
+<item>
+    <title>日本省钱留学攻略2018：如何花最少的钱过上有性价比的留学生活</title>
+    <link>https://hjpotter1.github.io/liuxue/</link>
+    <pubDate>Sun, 09 Sep 2018 21:46:27 &#43;0900</pubDate>
+    <author>Author Name</author>
+    <guid>https://hjpotter1.github.io/liuxue/</guid>
+    <description><![CDATA[<p>       我们假设你是一个刚刚拿到日本在留资格的学生。你有可能是以求学为目的，去东京的语言学校准备考大学，大学院；也或许是以锻炼日语为目的，想交几个日本朋友，充实地度过短暂的交换留学时光；也没准只是想找个机会离开枯燥的生活，一边打工一边游玩，看看新宿是不是传说中那样的不夜城，奈良的小鹿到底有多粘人；亦或是借着短期留学的机会在日本找一份工作，成为传说中的“一般会社员”，甚至是打黑工挣一笔钱……面对包括学费和生活费在内的大笔开销不知所措，也不清楚该如何规划自己今后的生活。<br>
+       那么，怎么样才能花最少的钱在日本生活下去呢？</p>
+<div align="center">
+		
+<figcaption>理想的东京</figcaption>
+</div>
+<div align="center">
+</img>
+<figcaption>现实的东京</figcaption>
+</div>]]></description>
+</item>
+<item>
+    <title>梦幻模拟战</title>
+    <link>https://hjpotter1.github.io/post/menghuan/</link>
+    <pubDate>Mon, 30 Jul 2018 00:00:00 &#43;0000</pubDate>
+    <author>hjpotter</author>
+    <guid>https://hjpotter1.github.io/post/menghuan/</guid>
+    <description><![CDATA[<p>7月26日发售的新一期周刊《Fami通》杂志上，公布了经典战棋游戏《梦幻模拟战》手游的新消息。《Fami通》介绍了游戏的基本情况，包括玩法、系统、版权方extreme的授权等等，还刊登了对《梦幻模拟战》手游开发公司紫龙游戏的专访。</p>]]></description>
+</item>
+<item>
+    <title>梦幻模拟战</title>
+    <link>https://hjpotter1.github.io/menghuan/</link>
+    <pubDate>Mon, 30 Jul 2018 00:00:00 &#43;0000</pubDate>
+    <author>hjpotter</author>
+    <guid>https://hjpotter1.github.io/menghuan/</guid>
+    <description><![CDATA[<p>7月26日发售的新一期周刊《Fami通》杂志上，公布了经典战棋游戏《梦幻模拟战》手游的新消息。《Fami通》介绍了游戏的基本情况，包括玩法、系统、版权方extreme的授权等等，还刊登了对《梦幻模拟战》手游开发公司紫龙游戏的专访。</p>]]></description>
+</item>
+</channel>
 </rss>

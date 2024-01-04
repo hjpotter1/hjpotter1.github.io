@@ -1,71 +1,77 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tagb on HJ Blog</title>
-    <link>https://hjpotter1.github.io/tags/tagb/</link>
-    <description>Recent content in Tagb on HJ Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
-    <lastBuildDate>Mon, 01 Jan 2024 01:42:34 +0900</lastBuildDate>
-    
-	<atom:link href="https://hjpotter1.github.io/tags/tagb/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>html5</title>
-      <link>https://hjpotter1.github.io/post/html5/</link>
-      <pubDate>Mon, 01 Jan 2024 01:42:34 +0900</pubDate>
-      
-      <guid>https://hjpotter1.github.io/post/html5/</guid>
-      <description>&lt;p&gt;Html5 lv1 考试心得&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>应用情报</title>
-      <link>https://hjpotter1.github.io/post/ap2024/</link>
-      <pubDate>Mon, 01 Jan 2024 01:42:34 +0900</pubDate>
-      
-      <guid>https://hjpotter1.github.io/post/ap2024/</guid>
-      <description>&lt;p&gt;&amp;ensp;&amp;ensp;&lt;/p&gt;
-
-&lt;p&gt;应用情报技术者并不是一个很简单的考试。需要花上一整天时间，上下午连考两场。考试的通过率一直保持在20%出头，论坛上甚至不乏考了七八次还不过的朋友。&lt;/p&gt;
-
-&lt;p&gt;但这也不是一个很难的考试。由于可以完全避开编程题，很多非IT岗位的日本人只选经营管理一类的题，考出高分也不罕见。&lt;/p&gt;
-
-&lt;p&gt;如果你是完全零基础的上班族的话，至少需要三个月业余时间来学习，也就是说要参加4月的考试，1月开始就必须每天搭上两个小时来做题。做不到这点的话，就只能碰碰运气了。&lt;/p&gt;
-
-&lt;p&gt;考试分为午前和午后两部分，每部分两个半个小时。我们先从午前的策略开始谈。。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>我胖了三公斤，走遍东京的奶茶店，总算弄明白了珍珠奶茶在日本为啥火了</title>
-      <link>https://hjpotter1.github.io/post/naicha/</link>
-      <pubDate>Wed, 31 Jul 2019 01:42:34 +0900</pubDate>
-      
-      <guid>https://hjpotter1.github.io/post/naicha/</guid>
-      <description>&lt;p&gt;&amp;ensp;&amp;ensp;&lt;strong&gt;我胖了三公斤，走遍东京的奶茶店，总算弄明白了珍珠奶茶在日本为啥火了。&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>男人应该玩硬派的战舰游戏”，板垣伴信大谈与国产手游《战舰帝国》的合作经历</title>
-      <link>https://hjpotter1.github.io/post/zhanjian/</link>
-      <pubDate>Wed, 01 Aug 2018 23:15:30 +0900</pubDate>
-      
-      <guid>https://hjpotter1.github.io/post/zhanjian/</guid>
-      <description>&lt;p&gt;日本游戏界有不少富有个性的游戏制作人，比如永远戴着头罩，以“颓废”为标志的横尾太郎；以“一拳超人”式的光头造型虐杀世界冠军的《ARMS》制作人矢吹光佑……然而这其中最引人瞩目的，无疑是言论也同样高调的“毒舌之王”板垣伴信。&lt;/p&gt;
-
-&lt;p&gt;板垣伴信是出身于日本知名游戏公司TECMO的游戏制作人。他1992年进入TECMO，因擅长程序编制程序而被转为开发人员。担纲制作过《死或生》《忍者龙剑传》等知名游戏系列，蜚声海外。离职后他开创了工作室“英灵殿”并制作了《恶魔三全音》等游戏，是一位在大众媒体面前经常戴着墨镜，造型独特，并以“毒舌”而闻名的个性制作人。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>《女神异闻录5》版东京自由行指南2.0</title>
-      <link>https://hjpotter1.github.io/post/youji/</link>
-      <pubDate>Tue, 31 Jul 2018 01:42:34 +0900</pubDate>
-      
-      <guid>https://hjpotter1.github.io/post/youji/</guid>
-      <description>&lt;p&gt;&amp;ensp;&amp;ensp;随着《你的名字》的热映，“圣地巡礼”这个词也成为了日本年度热门词汇之一。笔者在2017年樱花季受游戏时光网站所约，利用周末时间对游戏中的东京景点进行了一番实拍巡游，写就了这篇游记，并于2018年对文章结构进行了优化，附加了详细游玩线路。即使您没有玩过游戏，也可以将其作为普通导游指南使用。&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>tagB - Tag - HJ Blog</title>
+        <link>https://hjpotter1.github.io/tags/tagb/</link>
+        <description>tagB - Tag - HJ Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 01 Jan 2024 01:42:34 &#43;0900</lastBuildDate><atom:link href="https://hjpotter1.github.io/tags/tagb/" rel="self" type="application/rss+xml" /><item>
+    <title>html5</title>
+    <link>https://hjpotter1.github.io/post/html5/</link>
+    <pubDate>Mon, 01 Jan 2024 01:42:34 &#43;0900</pubDate>
+    <author>Author Name</author>
+    <guid>https://hjpotter1.github.io/post/html5/</guid>
+    <description><![CDATA[<p>Html5 lv1 考试心得</p>]]></description>
+</item>
+<item>
+    <title>应用情报</title>
+    <link>https://hjpotter1.github.io/post/ap2024/</link>
+    <pubDate>Mon, 01 Jan 2024 01:42:34 &#43;0900</pubDate>
+    <author>Author Name</author>
+    <guid>https://hjpotter1.github.io/post/ap2024/</guid>
+    <description><![CDATA[<p>  </p>
+<p>应用情报技术者并不是一个很简单的考试。需要花上一整天时间，上下午连考两场。考试的通过率一直保持在20%出头，论坛上甚至不乏考了七八次还不过的朋友。</p>
+<p>但这也不是一个很难的考试。由于可以完全避开编程题，很多非IT岗位的日本人只选经营管理一类的题，考出高分也不罕见。</p>
+<p>如果你是完全零基础的上班族的话，至少需要三个月业余时间来学习，也就是说要参加4月的考试，1月开始就必须每天搭上两个小时来做题。做不到这点的话，就只能碰碰运气了。</p>
+<p>考试分为午前和午后两部分，每部分两个半个小时。我们先从午前的策略开始谈。。</p>]]></description>
+</item>
+<item>
+    <title>我胖了三公斤，走遍东京的奶茶店，总算弄明白了珍珠奶茶在日本为啥火了</title>
+    <link>https://hjpotter1.github.io/post/naicha/</link>
+    <pubDate>Wed, 31 Jul 2019 01:42:34 &#43;0900</pubDate>
+    <author>Author Name</author>
+    <guid>https://hjpotter1.github.io/post/naicha/</guid>
+    <description><![CDATA[<p>  <strong>我胖了三公斤，走遍东京的奶茶店，总算弄明白了珍珠奶茶在日本为啥火了。</strong></p>]]></description>
+</item>
+<item>
+    <title>我胖了三公斤，走遍东京的奶茶店，总算弄明白了珍珠奶茶在日本为啥火了</title>
+    <link>https://hjpotter1.github.io/naicha/</link>
+    <pubDate>Wed, 31 Jul 2019 01:42:34 &#43;0900</pubDate>
+    <author>Author Name</author>
+    <guid>https://hjpotter1.github.io/naicha/</guid>
+    <description><![CDATA[<p>  <strong>我胖了三公斤，走遍东京的奶茶店，总算弄明白了珍珠奶茶在日本为啥火了。</strong></p>]]></description>
+</item>
+<item>
+    <title>男人应该玩硬派的战舰游戏”，板垣伴信大谈与国产手游《战舰帝国》的合作经历</title>
+    <link>https://hjpotter1.github.io/post/zhanjian/</link>
+    <pubDate>Wed, 01 Aug 2018 23:15:30 &#43;0900</pubDate>
+    <author>Author Name</author>
+    <guid>https://hjpotter1.github.io/post/zhanjian/</guid>
+    <description><![CDATA[<p>日本游戏界有不少富有个性的游戏制作人，比如永远戴着头罩，以“颓废”为标志的横尾太郎；以“一拳超人”式的光头造型虐杀世界冠军的《ARMS》制作人矢吹光佑……然而这其中最引人瞩目的，无疑是言论也同样高调的“毒舌之王”板垣伴信。</p>
+<p>板垣伴信是出身于日本知名游戏公司TECMO的游戏制作人。他1992年进入TECMO，因擅长程序编制程序而被转为开发人员。担纲制作过《死或生》《忍者龙剑传》等知名游戏系列，蜚声海外。离职后他开创了工作室“英灵殿”并制作了《恶魔三全音》等游戏，是一位在大众媒体面前经常戴着墨镜，造型独特，并以“毒舌”而闻名的个性制作人。</p>]]></description>
+</item>
+<item>
+    <title>男人应该玩硬派的战舰游戏”，板垣伴信大谈与国产手游《战舰帝国》的合作经历</title>
+    <link>https://hjpotter1.github.io/zhanjian/</link>
+    <pubDate>Wed, 01 Aug 2018 23:15:30 &#43;0900</pubDate>
+    <author>Author Name</author>
+    <guid>https://hjpotter1.github.io/zhanjian/</guid>
+    <description><![CDATA[<p>日本游戏界有不少富有个性的游戏制作人，比如永远戴着头罩，以“颓废”为标志的横尾太郎；以“一拳超人”式的光头造型虐杀世界冠军的《ARMS》制作人矢吹光佑……然而这其中最引人瞩目的，无疑是言论也同样高调的“毒舌之王”板垣伴信。</p>
+<p>板垣伴信是出身于日本知名游戏公司TECMO的游戏制作人。他1992年进入TECMO，因擅长程序编制程序而被转为开发人员。担纲制作过《死或生》《忍者龙剑传》等知名游戏系列，蜚声海外。离职后他开创了工作室“英灵殿”并制作了《恶魔三全音》等游戏，是一位在大众媒体面前经常戴着墨镜，造型独特，并以“毒舌”而闻名的个性制作人。</p>]]></description>
+</item>
+<item>
+    <title>《女神异闻录5》版东京自由行指南2.0</title>
+    <link>https://hjpotter1.github.io/post/youji/</link>
+    <pubDate>Tue, 31 Jul 2018 01:42:34 &#43;0900</pubDate>
+    <author>Author Name</author>
+    <guid>https://hjpotter1.github.io/post/youji/</guid>
+    <description><![CDATA[<p>  随着《你的名字》的热映，“圣地巡礼”这个词也成为了日本年度热门词汇之一。笔者在2017年樱花季受游戏时光网站所约，利用周末时间对游戏中的东京景点进行了一番实拍巡游，写就了这篇游记，并于2018年对文章结构进行了优化，附加了详细游玩线路。即使您没有玩过游戏，也可以将其作为普通导游指南使用。</p>]]></description>
+</item>
+<item>
+    <title>《女神异闻录5》版东京自由行指南2.0</title>
+    <link>https://hjpotter1.github.io/youji/</link>
+    <pubDate>Tue, 31 Jul 2018 01:42:34 &#43;0900</pubDate>
+    <author>Author Name</author>
+    <guid>https://hjpotter1.github.io/youji/</guid>
+    <description><![CDATA[<p>  随着《你的名字》的热映，“圣地巡礼”这个词也成为了日本年度热门词汇之一。笔者在2017年樱花季受游戏时光网站所约，利用周末时间对游戏中的东京景点进行了一番实拍巡游，写就了这篇游记，并于2018年对文章结构进行了优化，附加了详细游玩线路。即使您没有玩过游戏，也可以将其作为普通导游指南使用。</p>]]></description>
+</item>
+</channel>
 </rss>
