@@ -3,12 +3,26 @@
         <title>HJ Blog</title>
         <link>https://hjpotter1.github.io/</link>
         <description>Hugo theme - LoveIt</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 01 Jan 2024 01:42:34 &#43;0900</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 01 Apr 2024 21:57:40 &#43;0800</lastBuildDate>
             <atom:link href="https://hjpotter1.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>職務経歴書</title>
+    <link>https://hjpotter1.github.io/resume/</link>
+    <pubDate>Mon, 01 Apr 2024 21:57:40 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>https://hjpotter1.github.io/resume/</guid>
+    <description><![CDATA[職務経歴書 基本情報    key value     氏名 高 云虎（Kou Kumotora）   生年月日 1987/05/20   居住地 東京都   最終学歴 山東科技大学日本語翻訳科     各種アカウント     保有スキル  JavaScript / TypeScript + React、Vue.js などのモダンなフレームワークの活用 Java 、Python 、C#によるWebアプリケーションの開発・設計 保険、ECサイト、精算システム、旅行関連などの様々な案件の経験 UT を基本とした保守性と再利用性を意識したコーディング   技術スタック 言語  フレームワーク・その他   職務経歴詳細 羽石株式会社（2016年9月〜現在） ■健康保険電子申請サービスの共通部品開発（2023年10月～2024年3月） 【プロジェクト概要】
+・全国健康保険協会に加入している約4,000万人を対象に、レスポンシブデザインを採用したユーザーフレンドリーな電子申請システム
+【言語・FW】 ・TypeScript、CSS、Vue3、Vuetify、Vitest、PINIA、VeeValidate、AWS、Gitlab
+【業務内容】
+・Vue3のComposition API、TypeScript、Vuetifyを利用して、カレンダー、ファイルアップロード、電話番号、住所検索などの共通コンポーネントを開発
+・サンプルアプリケーションのSPAを開発し、開発したコンポーネントの統合
+・ソースコードのレビューとマージ作業を担当し、コードの品質保証を実施]]></description>
+</item>
+<item>
     <title>html5 lv1考试心得</title>
     <link>https://hjpotter1.github.io/html5/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <pubDate>Fri, 01 Dec 2023 21:57:40 &#43;0800</pubDate>
     <author>Dillon</author>
     <guid>https://hjpotter1.github.io/html5/</guid>
     <description><![CDATA[<p>Html5 lv1 考试心得</p>]]></description>
@@ -40,28 +54,6 @@
     <author>hjpotter</author>
     <guid>https://hjpotter1.github.io/1z0-809/</guid>
     <description><![CDATA[<p>近日考完1Z0-809-JPN Java SE 8 Programmer II，即Java Gold资格认证。分享一下参考题目以及部分题目的解法分析。希望能帮助到正在准备考试的朋友们。</p>]]></description>
-</item>
-<item>
-    <title>羽石株式会社招聘赴日程序员</title>
-    <link>https://hjpotter1.github.io/zhaopin/</link>
-    <pubDate>Sat, 04 Jan 2020 00:00:00 &#43;0000</pubDate>
-    <author>hjpotter</author>
-    <guid>https://hjpotter1.github.io/zhaopin/</guid>
-    <description><![CDATA[<h2 id="我们希望您是">我们希望您是：</h2>
-<ul>
-<li>
-<p>拥有良好逻辑思维、沟通能力的技术者</p>
-</li>
-<li>
-<p>计算机相关本科毕业或者专科毕业工作2年以上</p>
-</li>
-<li>
-<p>日语能力N2以上(技术能力强可以适当放宽)</p>
-</li>
-<li>
-<p>有梦想，并且努力拼搏，并不满意目前的薪资</p>
-</li>
-</ul>]]></description>
 </item>
 <item>
     <title>我胖了三公斤，走遍东京的奶茶店，总算弄明白了珍珠奶茶在日本为啥火了</title>
