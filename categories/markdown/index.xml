@@ -5,17 +5,16 @@
         <description>Markdown - Category - HJ Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 01 Apr 2024 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://hjpotter1.github.io/categories/markdown/" rel="self" type="application/rss+xml" /><item>
     <title>職務経歴書</title>
-    <link>https://hjpotter1.github.io/resume/</link>
+    <link>https://hjpotter1.github.io/resume2024/</link>
     <pubDate>Mon, 01 Apr 2024 21:57:40 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>https://hjpotter1.github.io/resume/</guid>
-    <description><![CDATA[職務経歴書 基本情報    key value     氏名 高 云虎（Kou Kumotora）   生年月日 1987/05/20   居住地 東京都   最終学歴 山東科技大学日本語翻訳科     各種アカウント     保有スキル  JavaScript / TypeScript + React、Vue.js などのモダンなフレームワークの活用 Java 、Python 、C#によるWebアプリケーションの開発・設計 保険、ECサイト、精算システム、旅行関連などの様々な案件の経験 UT を基本とした保守性と再利用性を意識したコーディング   技術スタック 言語  フレームワーク・その他   職務経歴詳細 羽石株式会社（2016年9月〜現在） ■健康保険電子申請サービスの共通部品開発（2023年10月～2024年3月） 【プロジェクト概要】
+    <author>hjpotter</author>
+    <guid>https://hjpotter1.github.io/resume2024/</guid>
+    <description><![CDATA[職務経歴書 基本情報    key value     氏名 高 云虎（Kou Kumotora）   生年月日 1987/05/20   居住地 東京都   最終学歴 中国山東科技大学日本語翻訳科 修士課程     各種アカウント     保有スキル  JavaScript / TypeScript + React、Vue.js などのモダンなフレームワークの活用 Java 、Python 、C#によるWebアプリケーションの開発・設計 保険、ECサイト、精算システム、旅行関連などの様々な案件の経験 UT を基本とした保守性と再利用性を意識したコーディング   技術スタック 言語  フレームワーク・その他   職務経歴詳細 羽石株式会社（2016年9月〜現在） ■健康保険電子申請サービスの共通部品開発（2023年10月～2024年3月） 【プロジェクト概要】
 ・全国健康保険協会に加入している約4,000万人を対象に、レスポンシブデザインを採用したユーザーフレンドリーな電子申請システム
 【言語・FW】 ・TypeScript、CSS、Vue3、Vuetify、Vitest、PINIA、VeeValidate、AWS、Gitlab
 【業務内容】
 ・Vue3のComposition API、TypeScript、Vuetifyを利用して、カレンダー、ファイルアップロード、電話番号、住所検索などの共通コンポーネントを開発
-・サンプルアプリケーションのSPAを開発し、開発したコンポーネントの統合
-・ソースコードのレビューとマージ作業を担当し、コードの品質保証を実施]]></description>
+・サンプルアプリケーションのSPAを開発し、開発したコンポーネントの統合]]></description>
 </item>
 <item>
     <title>html5 lv1考试心得</title>
